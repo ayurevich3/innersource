@@ -7,4 +7,5 @@
 - [Measuring success](metrics/)
 - [Repository ownership](repo-ownership/)
 - [Workflows](workflows/)
-Cool!
+
+This repository is licensed under [CC-by-4](../LICENSE) (c) 2019 GitHub, Inc.
